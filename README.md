@@ -51,7 +51,4 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 Text & Image slide photo created by Freepik.com
 Photo by Toni Cuenca from Pexels
 Photo by Lisa Fotios from Pexels
-
-Here is some more info..
-
-and some more
+Dot Grid Pattern Made by Darius Garza

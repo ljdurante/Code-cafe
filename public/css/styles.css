@@ -1,3 +1,8 @@
+body {
+  /*background-color: lavender;*/
+  background:  url("../assets/soft_pad.png")
+}
+
 button.submit {
   float: right;
 }
@@ -46,5 +51,17 @@ button.edit {
   margin-top: 30px;
 }
 
+input::placeholder {
+  color: white;
+  font-size: 1.2em;
+  font-style: italic;
+}
 
-
+.btn {
+  background-color: purple;
+  font-family: Arial, Helvetica, sans-serif;
+  color: whitesmoke;
+}
+.blog-container {
+  background-image: url(/public/assets/beans-coffee-drink.jpg);
+}
