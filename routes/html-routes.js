@@ -21,6 +21,10 @@ module.exports = function(app) {
   app.get("/calendar", function(req, res) {
     res.sendFile(path.join(__dirname, "../public/calendar.html"));
   });
+  
+  app.get("/cms", function (req, res) {
+    res.sendFile(path.join(__dirname, "../public/cms.html"));
+  });
 
   // sign up route loads signup.html
   app.get("/signup", function(req, res) {
